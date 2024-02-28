@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+My name is Jumale Abdi, commonly referred to as Jamal. I am a computer science student interested in full-stack web application development and deep learning.
+
+
+
+
+- 🔭 I’m currently working on my website, integrating blogs and projects to display using the MERN stack, Docker, and AWS.
+
+- 🌱 I’m currently learning about Nginx, CI/CD, Linux, and Generative Adversarial Networks.
+  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
